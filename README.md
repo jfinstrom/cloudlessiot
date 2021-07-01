@@ -15,7 +15,13 @@ Ummmmm Why not. I have multiple IOT devices from multiple manufacturers and all 
 
 ## Feature List
 
-Coming soon
+- [ ] Access Control list in user management by device
+- [ ] Control Smart lock from UCP and via phone
+- [ ] Control smart lights from UCP
+- [ ] Control smart relay from UCP and via phone
+- [ ] Update/maintain keypad codes for smart deadbolt
+- [ ] Generate access report
+- [ ] Generate action audit report
 
 ## License
 
